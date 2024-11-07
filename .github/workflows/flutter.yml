@@ -16,7 +16,7 @@ jobs:
     - name: Set up Flutter
       uses: subosito/flutter-action@v2
       with:
-        flutter-version: '2.24.4' # Align with your local Flutter version
+        flutter-version: '3.24.4' # Align with your local Flutter version
 
     - name: Enable Flutter web
       run: flutter config --enable-web
