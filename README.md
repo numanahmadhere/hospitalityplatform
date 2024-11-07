@@ -14,4 +14,4 @@ A cloud-based customer data platform tailored for the hospitality industry, buil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hospitality-data-platform.git
+   git clone https://github.com/numanahmadhere/hospitalityplatform.git
